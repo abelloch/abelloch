@@ -29,9 +29,10 @@ Featured Projects
 •	Getting Started with Docker Implementation of containers to simplify application deployment.
 My Goals
 I am eager to learn more about DevOps and improve my programming skills. I want to continue growing in this field and contribute to projects that make a difference. My goal is to excel and become a well-rounded professional capable of tackling any technological challenge.
-Connect with Me
-•	Email: youremail@example.com
-I am excited about the opportunities this new path holds and am always willing to collaborate and learn. Let's talk and build something amazing together!
+<h2 align="left">Connect with Me</h2>Connect with Me
+
+	<h3 align="left">Email: abelloch.es@gmail.com</3>
+<p aling="left">I am excited about the opportunities this new path holds and am always willing to collaborate and learn. Let's talk and build something amazing together!</p>
 
 
 
