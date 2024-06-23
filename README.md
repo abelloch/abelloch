@@ -1,10 +1,10 @@
  Wellcome to my World!!
 <h1 align="center">Hi 👋, I'm Asdrubal Bello</h1>
-<h3 align="center">Transforming ideas into innovative solutions, one code at a time."</h3>
+<h3 align="center">"Transforming ideas into innovative solutions, one code at a time."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelloch&label=Profile%20views&color=0e75b6&style=flat" alt="abelloch" /> </p>
 
-<p align="left"> So far : </p>
+<h2> So far : </h2>
 <p align="left">•	🔭 I’m currently working on: Expanding my knowledge in DevOps and building automation tools.</p>
 <p align="left">•	🌱 I’m currently learning: Advanced Kubernetes, CI/CD pipelines with GitHub Actions.</p>
 <p align="left">•	👯 I’m looking to collaborate on: Open source DevOps projects and innovative IoT solutions.</p>
@@ -14,24 +14,32 @@
 <p align="left">•	😄 Pronouns: He/Him</p>
 <p align="left">•	⚡ Fun fact: I love tinkering with gadgets</p> 
 <h2>About Me</h2>
-I am an electronics engineer turned developer passionate about technology. Although I am new to the world of programming, my curiosity and dedication have led me to explore and develop various technological projects throughout my career. I've always been fascinated by how technology can transform and improve our lives.
+<p>I am an electronics engineer turned developer passionate about technology. Although I am new to the world of programming, my curiosity and dedication have led me to explore and develop various technological projects throughout my career. I've always been fascinated by how technology can transform and improve our lives.</p>
 <h2>My Journey</h2>
-From a young age, I have been driven by a deep passion for technology. As an electronics engineer, I have worked on projects ranging from circuit design to system automation. Now, I am focusing on expanding my skills in programming and DevOps, areas I consider essential for the future of technology.
-Skills
-•	Programming Languages: Python, JavaScript
-•	Infrastructure as Code: Docker, Kubernetes (learning)
-•	Continuous Integration and Delivery: GitHub Actions (learning)
-•	Electronics: Circuit design, embedded systems, IoT
-•	Additional Tools: Git, Bash
-Featured Projects
-•	IoT Smart Home Project Development of a home automation system using sensors and microcontrollers.
-•	Python Test Automation Creation of Python scripts to automate tests and repetitive processes.
-•	Getting Started with Docker Implementation of containers to simplify application deployment.
-My Goals
-I am eager to learn more about DevOps and improve my programming skills. I want to continue growing in this field and contribute to projects that make a difference. My goal is to excel and become a well-rounded professional capable of tackling any technological challenge.
-<h2 align="left">Connect with Me</h2>Connect with Me
+<p>From a young age, I have been driven by a deep passion for technology. As an electronics engineer, I have worked on projects ranging from circuit design to system automation. Now, I am focusing on expanding my skills in programming and DevOps, areas I consider essential for the future of technology.</p>
 
-	<h3 align="left">Email: abelloch.es@gmail.com</h3>
+<h2>Skills</h2>
+<ul>
+	<li>Programming Languages: Python, JavaScript</li>
+	<li>Infrastructure as Code: Docker, Kubernetes (learning)</li>
+	<li>Continuous Integration and Delivery: GitHub Actions (learning)</li>
+	<li>Electronics: Circuit design, embedded systems, IoT</li>
+	<li>Additional Tools: Git, Bash</li>
+</ul>
+<h2>Featured Projects</h2>
+<ul>
+	<li>IoT Smart Home Project Development of a home automation system using sensors and microcontrollers.</li>
+	<li>Python Test Automation Creation of Python scripts to automate tests and repetitive processes.</li>
+	<li>Getting Started with Docker Implementation of containers to simplify application deployment.</li>
+</ul>
+<h2>My Goals</h2>
+
+<p>I am eager to learn more about DevOps and improve my programming skills. I want to continue growing in this field and contribute to projects that make a difference. My goal is to excel and become a well-rounded professional capable of tackling any technological challenge.</p>
+
+<h2>Connect with Me</h2>
+
+<h3>Email: abelloch.es@gmail.com</h3>
+
 <p aling="left">I am excited about the opportunities this new path holds and am always willing to collaborate and learn. Let's talk and build something amazing together!</p>
 
 
@@ -42,7 +50,7 @@ I am eager to learn more about DevOps and improve my programming skills. I want 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asdrubal-bello-202020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asdrubal-bello-202020/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asdrubal-bello-202020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asdrubal-bello-202020/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
