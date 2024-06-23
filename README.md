@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelloch&label=Profile%20views&color=0e75b6&style=flat" alt="abelloch" /> </p>
 
-
+<p align="left"> So far : </p>
 <p align="left">•	🔭 I’m currently working on: Expanding my knowledge in DevOps and building automation tools.</p>
 <p align="left">•	🌱 I’m currently learning: Advanced Kubernetes, CI/CD pipelines with GitHub Actions.</p>
 <p align="left">•	👯 I’m looking to collaborate on: Open source DevOps projects and innovative IoT solutions.</p>
